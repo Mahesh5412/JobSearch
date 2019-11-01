@@ -1,0 +1,4 @@
+#Tue Sep 10 19:38:51 IST 2019
+base.0=/home/cadrac/Downloads/JobSearch_demo/JobSearch (2)/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
